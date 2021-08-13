@@ -6,8 +6,8 @@ We will be able to blink the 4 configurable LEDS near the top of the board that 
 ## Pre-requisires
 - [Setting Up VM Environment](https://github.com/abdoo8080/tutorials/blob/main/virtual_machine_setup/tutorial.md)
 - [Install Vitis and Vivado IDEs](https://github.com/abdoo8080/tutorials/blob/main/install_vitis_and_vivado/install_vitis_and_vivado.md)
-- [Connecting your Ultra96V2 to the Serial Monitor. (GTKTerm)]
-- [Hello World Cross-Compile]
+- [Connecting your Ultra96V2 to the Serial Monitor. (GTKTerm)](https://github.com/jramey2016/HelloWorld_CrossCompile_Ultra96V2)
+- [Hello World Cross-Compile](
 
 # Steps
 
