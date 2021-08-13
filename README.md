@@ -3,3 +3,6 @@ In this tutorial we will run the Blinky script I created Via Bare Metal and cros
 Feel free to download the program above as you follow this tutorial.
 ## Pre-requisires
 - [Setting Up VM Environment](https://github.com/abdoo8080/tutorials/blob/main/virtual_machine_setup/tutorial.md)
+- Install Vitis and Vivado IDEs(https://github.com/abdoo8080/tutorials/blob/main/install_vitis_and_vivado/install_vitis_and_vivado.md)
+
+# Steps
