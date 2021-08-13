@@ -8,5 +8,5 @@ Feel free to download the program above as you follow this tutorial.
 
 # Steps
 
-First we will start by launching the Xilinx Vitis IDE. Upon launch you will be asked to select your workspace directory, choose what option you are comfortable with.
+First we will start by launching the Xilinx Vitis IDE. Upon launch you will be asked to select your workspace directory.
 ![direct](https://user-images.githubusercontent.com/72533453/129287452-0ce2adbe-43fa-4b6e-b103-291c38e977dd.PNG)
